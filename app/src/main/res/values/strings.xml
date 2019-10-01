@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppContas-Gestor de Finanças</string>
+    <string name="success_edit">Gasto editado com sucesso!</string>
+    <string name="success_delete">Gasto removido com sucesso!</string>
+    <string name="ok">OK!</string>
+    <string name="msg_edit">A edição foi concluída com sucesso!</string>
+    <string name="msg_delete">A remoção foi concluída com sucesso!</string>
+    <string name="falta_entradas">Você deve preencher todos os dados!</string>
+    <string name="title_activity_segunda_main">SegundaMain</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="listar_gastos">Listar Gastos</string>
+    <string name="adicionar_gasto">Adicionar Gasto</string>
+    <string name="poupando">Poupando</string>
+    <string name="nome">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="data">Data</string>
+    <string name="valor">Valor</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+</resources>
